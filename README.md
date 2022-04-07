@@ -1,7 +1,7 @@
 # LiteraryReview-Using-AI-to-Make-Healthcare-Decisions
 Grade: 93.75%
 
-Topic: Using AU to Make Healthcare Decisions
+Topic: Using AI to Make Healthcare Decisions
 
 Abstract: 
 
