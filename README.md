@@ -2,6 +2,7 @@
 Grade: 93.75%
 
 Abstract: 
+
 The integration and use of artificial intelligence (AI) in healthcare decision making is 
 drastically changing the healthcare industry. It is improving outcomes for patients, reducing 
 costs, helping with staff shortages, and assisting medical practitioners in their work. 
